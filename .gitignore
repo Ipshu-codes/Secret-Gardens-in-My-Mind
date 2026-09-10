@@ -1,1 +1,4 @@
 backups/
+# TouchDesigner backup files
+*.toe.*.toe
+*.tox.*.tox
